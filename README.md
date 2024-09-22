@@ -1,4 +1,10 @@
 ## Hi there 👋
+I'm CyCy, and I'm currently learning 🖤
+
+- 🔭 I’m currently working on learning the basics of coding and programming
+- 🌱 I’m currently learning how to work Github, Git ― and the overall process of everything
+- 🤔 I’m looking for help with tips for debugging
+- 😄 Pronouns: she/her/hers
 
 <!--
 **ccasalme/CCasalme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
