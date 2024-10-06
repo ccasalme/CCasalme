@@ -1,8 +1,6 @@
 ## Hi there 👋
 I'm CyCy, and I'm currently learning and SUPER NEW to everything 🖤
 
-You may know me by my writer/creator/artist name: @cyrls-corner.
-
 The goal is to create my website (help my sister with her business site as well) and be able to bring some of my novels to life in video games. Not only am I learning how to code, but I am also working on improving my digital art skills and writing while juggling a full-time job and life expectations 💅
 
 I eventually would need a team to reach that goal, but I also love learning. What truly pushed me into this is that I seek the adrenaline of acquiring new skill sets, which allows me to broaden my creative space.
