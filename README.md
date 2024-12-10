@@ -10,7 +10,7 @@ I'm CyCy, and I'm currently learning and SUPER NEW to everything 🖤
 
 <img width="375" alt="Screenshot 2024-12-10 at 1 24 37 PM" src="https://github.com/user-attachments/assets/b3753abf-810f-4f59-9648-d5b8e5a766b8">
 
-- 🤔 I’m always looking for tips for debugging
+- 🤔 I’m always looking for tips in debugging and making my life easier (short cut commands)
 - 😄 Pronouns: she/her/hers
 - 📫 How to reach me:
   (1) Discord: Cyrl C. [(https://discord.gg/tyGSYtZx)]
