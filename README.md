@@ -2,8 +2,15 @@
 I'm CyCy, and I'm currently learning and SUPER NEW to everything 🖤
 
 - 🔭 I’m currently working on learning the basics of coding and programming
-- 🌱 I’m currently learning how to work Github, Git ― and the overall process of everything
-- 🤔 I’m looking for tips for debugging
+- 🌱 I’m currently learning! But I have a strong hold off on HTML, CSS, & JS. Currently in the process of  mastering Node.js, TypeScript, and React
+
+<img width="378" alt="Screenshot 2024-12-10 at 1 25 06 PM" src="https://github.com/user-attachments/assets/0f15bfac-db9f-41e5-93af-dde0dda6161a">
+
+<img width="377" alt="Screenshot 2024-12-10 at 1 24 51 PM" src="https://github.com/user-attachments/assets/d012a67f-d167-4433-8bec-3fce13f06196">
+
+<img width="375" alt="Screenshot 2024-12-10 at 1 24 37 PM" src="https://github.com/user-attachments/assets/b3753abf-810f-4f59-9648-d5b8e5a766b8">
+
+- 🤔 I’m always looking for tips for debugging
 - 😄 Pronouns: she/her/hers
 - 📫 How to reach me:
   (1) Discord: Cyrl C. [(https://discord.gg/tyGSYtZx)]
