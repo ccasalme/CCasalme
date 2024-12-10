@@ -2,7 +2,7 @@
 I'm CyCy, and I'm currently learning and SUPER NEW to everything 🖤
 
 - 🔭 I’m currently learning how to code
-- 🌱 But I have a strong hold of on HTML, CSS, & JS. Currently in the process of  mastering Node.js, TypeScript, and React
+- 🌱 But I have a strong hold of HTML, CSS, & JS. Currently in the process of  mastering Node.js, TypeScript, and React
 
 <img width="378" alt="Screenshot 2024-12-10 at 1 25 06 PM" src="https://github.com/user-attachments/assets/0f15bfac-db9f-41e5-93af-dde0dda6161a">
 
