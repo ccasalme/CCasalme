@@ -18,6 +18,12 @@ I'm CyCy, and I'm currently learning and SUPER NEW to everything 🖤
 
 - ⚡ Fun fact: I'm also a Creator and a gamer (not a good one ahaha).
   (1) I am a writer ✍️ and an artist 🎨. I sometimes help writers edit their work, and I started a small Poetry Publication on Medium
+
+  ![Spiderman FanArt](https://github.com/user-attachments/assets/11975629-352f-400a-8869-225b7e212147)
+
+  ![Apollo, Dreams,   Poetry (400 x 400 px)](https://github.com/user-attachments/assets/25fad033-d1b1-418c-a347-4a84dca6754a)
+
+
   (2) What inspired me to learn is so I can bring my video game 🎮 idea to life one day!
   (3) And to also create beautiful websites for small businesses and bloggers
 <!--
