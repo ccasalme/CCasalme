@@ -17,9 +17,11 @@ I'm CyCy, and I'm currently learning and SUPER NEW to everything 🖤
   (2) LinkedIn: Cyrl Casalme [(https://www.linkedin.com/in/cyrl-casalme-948835181/)]
 
 - ⚡ Fun fact: I'm also a Creator and a gamer (not a good one ahaha).
-  (1) I am a writer ✍️ and an artist 🎨. I sometimes help writers edit their work, and I started a small Poetry Publication on Medium
+  (1) I am a writer ✍️ and an artist (Spiderman fan here) 🎨. I sometimes help writers edit their work, and I started a small Poetry Publication on Medium
 
   ![Spiderman FanArt](https://github.com/user-attachments/assets/11975629-352f-400a-8869-225b7e212147)
+
+  ![Venom FanArt](https://github.com/user-attachments/assets/05f94a29-2eaa-452a-a1d2-278fc10a7658)
 
   ![Apollo, Dreams,   Poetry (400 x 400 px)](https://github.com/user-attachments/assets/25fad033-d1b1-418c-a347-4a84dca6754a)
 
