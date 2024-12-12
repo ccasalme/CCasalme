@@ -10,6 +10,9 @@ I'm CyCy, and I'm currently learning and SUPER NEW to everything 🖤
 
 <img width="375" alt="Screenshot 2024-12-10 at 1 24 37 PM" src="https://github.com/user-attachments/assets/b3753abf-810f-4f59-9648-d5b8e5a766b8">
 
+![Screenshot 2024-12-12 at 4 40 38 PM](https://github.com/user-attachments/assets/f8ea43a7-a58f-4096-af3a-bf94a6da0e3f)
+
+
 - 🤔 I’m always looking for tips in debugging and making my life easier (short cut commands)
 - 😄 Pronouns: she/her/hers
 - 📫 How to reach me:
