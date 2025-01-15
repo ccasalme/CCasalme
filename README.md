@@ -4,13 +4,13 @@ I'm CyCy, and I'm currently learning and SUPER NEW to everything 🖤
 - 🔭 I’m currently learning how to code
 - 🌱 But I have a strong hold of HTML, CSS, & JS. Currently in the process of  mastering Node.js, TypeScript, and React
 
-<img width="378" alt="Screenshot 2024-12-10 at 1 25 06 PM" src="https://github.com/user-attachments/assets/0f15bfac-db9f-41e5-93af-dde0dda6161a">
+<img width="100" alt="Screenshot 2024-12-10 at 1 25 06 PM" src="https://github.com/user-attachments/assets/0f15bfac-db9f-41e5-93af-dde0dda6161a">
 
-<img width="377" alt="Screenshot 2024-12-10 at 1 24 51 PM" src="https://github.com/user-attachments/assets/d012a67f-d167-4433-8bec-3fce13f06196">
+<img width="100" alt="Screenshot 2024-12-10 at 1 24 51 PM" src="https://github.com/user-attachments/assets/d012a67f-d167-4433-8bec-3fce13f06196">
 
-<img width="375" alt="Screenshot 2024-12-10 at 1 24 37 PM" src="https://github.com/user-attachments/assets/b3753abf-810f-4f59-9648-d5b8e5a766b8">
+<img width="100" alt="Screenshot 2024-12-10 at 1 24 37 PM" src="https://github.com/user-attachments/assets/b3753abf-810f-4f59-9648-d5b8e5a766b8">
 
-<img width="375" alt="Screenshot 2024-12-12 at 4 40 38 PM" src="https://github.com/user-attachments/assets/f8ea43a7-a58f-4096-af3a-bf94a6da0e3f">
+<img width="100" alt="Screenshot 2024-12-12 at 4 40 38 PM" src="https://github.com/user-attachments/assets/f8ea43a7-a58f-4096-af3a-bf94a6da0e3f">
 
 
 - 🤔 I’m always looking for tips in debugging and making my life easier (short cut commands)
@@ -26,7 +26,7 @@ I'm CyCy, and I'm currently learning and SUPER NEW to everything 🖤
 
   ![Venom FanArt](https://github.com/user-attachments/assets/05f94a29-2eaa-452a-a1d2-278fc10a7658)
 
-  ![Apollo, Dreams,   Poetry (400 x 400 px)](https://github.com/user-attachments/assets/25fad033-d1b1-418c-a347-4a84dca6754a)
+  ![Apollo, Dreams](https://github.com/user-attachments/assets/25fad033-d1b1-418c-a347-4a84dca6754a)
 
 
   (2) What inspired me to learn is so I can bring my video game 🎮 idea to life one day!
