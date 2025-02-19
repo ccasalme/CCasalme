@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm CyCy, and I'm currently learning and SUPER NEW to everything 🖤
+I'm CyCy, and I'm currently learning 🖤
 
 - 🔭 I’m currently learning how to code
 - 🌱 But I have a strong hold of HTML, CSS, & JS. Currently in the process of  mastering Node.js, TypeScript, and React
@@ -12,25 +12,6 @@ I'm CyCy, and I'm currently learning and SUPER NEW to everything 🖤
 
 <img width="100" alt="Screenshot 2024-12-12 at 4 40 38 PM" src="https://github.com/user-attachments/assets/f8ea43a7-a58f-4096-af3a-bf94a6da0e3f">
 
-
-- 🤔 I’m always looking for tips in debugging and making my life easier (short cut commands)
-- 😄 Pronouns: she/her/hers
-- 📫 How to reach me:
-  (1) Discord: Cyrl C. [(https://discord.gg/tyGSYtZx)]
-  (2) LinkedIn: Cyrl Casalme [(https://www.linkedin.com/in/cyrl-casalme-948835181/)]
-
-- ⚡ Fun fact: I'm also a Creator and a gamer (not a good one ahaha).
-  (1) I am a writer ✍️ and an artist (Spiderman fan here) 🎨. I sometimes help writers edit their work, and I started a small Poetry Publication on Medium
-
-  ![Spiderman FanArt](https://github.com/user-attachments/assets/11975629-352f-400a-8869-225b7e212147)
-
-  ![Venom FanArt](https://github.com/user-attachments/assets/05f94a29-2eaa-452a-a1d2-278fc10a7658)
-
-  ![Apollo, Dreams](https://github.com/user-attachments/assets/25fad033-d1b1-418c-a347-4a84dca6754a)
-
-
-  (2) What inspired me to learn is so I can bring my video game 🎮 idea to life one day!
-  (3) And to also create beautiful websites for small businesses and bloggers
 <!--
 **ccasalme/CCasalme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
