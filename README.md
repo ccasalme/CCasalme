@@ -3,7 +3,7 @@ I'm Cyrl! 🖤
 
 As a Full Stack Developer and UX/UI Designer, I bring a blend of technical expertise and creative insights to build user-centric digital solutions. 
 
-With a strong foundation in HTML, CSS, JavaScript, React, TypeScript, Node.js, and MongoDB, I specialize in developing applications that enhance both user experience and organizational growth. 
+With a strong foundation in HTML, CSS, JavaScript, React, TypeScript, Node.js, SQL, NoSQL, Python, RestAPIs, GraphQL, Apollo, MongoDB, JSON, Cypress, and CI/CD, I specialize in developing applications that enhance both user experience and organizational growth. 
 
 My experience in data analysis, gained through diverse work environments, allows me to interpret market trends, client behaviors, and financial data, enabling me to make data-driven decisions and create actionable insights for business strategies.
 
