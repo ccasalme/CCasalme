@@ -1,8 +1,9 @@
 ## Hi there 👋
-I'm CyCy, and I'm currently learning 🖤
+I'm Cyrl! 🖤
 
-- 🔭 I’m currently learning how to code
-- 🌱 But I have a strong hold of HTML, CSS, & JS. Currently in the process of  mastering Node.js, TypeScript, and React
+As a Full Stack Developer and UX/UI Designer, I blend technical expertise with creative insights to craft user-centric digital solutions. With a strong foundation in HTML, CSS, JavaScript, React, TypeScript, Node.js, and MongoDB, I specialize in building applications that drive both user experience and organizational growth. My experience in data analysis, gained through years of working with diverse data sets, allows me to interpret market trends, client behaviors, and financial data to inform strategic decision-making.
+
+In addition to my technical skills, I have extensive experience in project coordination within creative environments, managing multiple projects from initiation to completion. Proficient in tools like Jira and Asana, I excel at aligning cross-functional teams, managing assets, and ensuring quality standards are met. My commitment to continuous learning is reflected in my portfolio, where I showcase my ongoing development in both technical and creative domains.
 
 <img width="100" alt="Screenshot 2024-12-10 at 1 25 06 PM" src="https://github.com/user-attachments/assets/0f15bfac-db9f-41e5-93af-dde0dda6161a">
 
