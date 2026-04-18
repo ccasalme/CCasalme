@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Cyrl! 🖤
+I'm Cyrl! 🖤 I graduated from UofT Continuing Education for Full Stack Development.
 <br> <br> See Figma Profile here 👉 <https://www.figma.com/@ccasalme>
 
 As a Full Stack Developer and UX/UI Designer, I bring a blend of technical expertise and creative insights to build user-centric digital solutions. 
