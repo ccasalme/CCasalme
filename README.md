@@ -1,3 +1,6 @@
+<img width="1280" height="720" alt="templateBanner" src="https://github.com/user-attachments/assets/cf54e34b-a22f-4af7-82e1-08ed3747dad5" />
+
+
 ## Hi there 👋
 I'm CCasalme! 🖤 I graduated from UofT Continuing Education for Full Stack Development.
 <br> <br> See Figma Profile here 👉 <https://www.figma.com/@ccasalme>
@@ -16,13 +19,16 @@ Skilled in project coordination, I excel in managing multiple projects from init
 
 My commitment to continuous learning is demonstrated through my ongoing portfolio, where I showcase my growth in both technical and creative domains, as well as my dedication to staying at the forefront of emerging technologies.
 
-<img width="100" alt="Screenshot 2024-12-10 at 1 25 06 PM" src="https://github.com/user-attachments/assets/0f15bfac-db9f-41e5-93af-dde0dda6161a">
+---
+---
+## Check out the Template(s) that I created here. Feel free to use them as well.
+* [**html-css-js-template:** A lightweight starter template for **Vanilla JavaScript** frontend projects](https://github.com/ccasalme/html-css-js-template)
 
-<img width="100" alt="Screenshot 2024-12-10 at 1 24 51 PM" src="https://github.com/user-attachments/assets/d012a67f-d167-4433-8bec-3fce13f06196">
-
-<img width="100" alt="Screenshot 2024-12-10 at 1 24 37 PM" src="https://github.com/user-attachments/assets/b3753abf-810f-4f59-9648-d5b8e5a766b8">
-
-<img width="100" alt="Screenshot 2024-12-12 at 4 40 38 PM" src="https://github.com/user-attachments/assets/f8ea43a7-a58f-4096-af3a-bf94a6da0e3f">
+---
+---
+## Check out my ongoing Repos here as well. They serve as ongoing references that can be helpful to you too!
+* [Steal My Notes Here: This is an open-source repository designed to teach the foundations of full-stack development.](https://github.com/ccasalme/stealmynoteshere)
+* [All Bugs App: All Bugs is exactly as it is named as. It serves as my playground for all the mini projects that I want to try out.](https://github.com/ccasalme/allbugs/tree/main)
 
 <!--
 **ccasalme/CCasalme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
