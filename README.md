@@ -22,7 +22,10 @@ My commitment to continuous learning is demonstrated through my ongoing portfoli
 ---
 ---
 ## Check out the Template(s) that I created here. Feel free to use them as well.
+### Javascript
 * [**html-css-js-template:** A lightweight starter template for **Vanilla JavaScript** frontend projects](https://github.com/ccasalme/html-css-js-template)
+### HTML
+* [**HTML Tutorial Template** An HTML Tutorial Template that can serve as a reference or basic template for frontend projects](https://github.com/ccasalme/allbugs/tree/main/02_HTML/basicHTML)
 
 ---
 ---
