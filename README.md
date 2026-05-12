@@ -4,6 +4,7 @@
 ## Hi there 👋
 I'm CCasalme! 🖤 I graduated from UofT Continuing Education for Full Stack Development.
 <br> <br> See Figma Profile here 👉 <https://www.figma.com/@ccasalme>
+<br> <br> See YouTube Channel here 👉 <www.youtube.com/@CCasalme>
 
 As a Full Stack Developer and UX/UI Designer, I bring a blend of technical expertise and creative insights to build user-centric digital solutions. 
 
@@ -24,6 +25,7 @@ My commitment to continuous learning is demonstrated through my ongoing portfoli
 ## Check out the Template(s) that I created here. Feel free to use them as well.
 ### Javascript
 * [**html-css-js-template:** A lightweight starter template for **Vanilla JavaScript** frontend projects](https://github.com/ccasalme/html-css-js-template)
+* [**BakeryWebTemplate:** A polished starter template for frontend bakery, café, and restaurant website projects built with Vanilla HTML, CSS, and JavaScript.](https://github.com/ccasalme/BakeryWebTemplate)
 ### HTML
 * [**HTML Tutorial Template** An HTML Tutorial Template that can serve as a reference or basic template for frontend projects](https://github.com/ccasalme/allbugs/tree/main/02_HTML/basicHTML)
 
